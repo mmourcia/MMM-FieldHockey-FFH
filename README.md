@@ -20,7 +20,7 @@ npm i
 
 ## Config
 
-```json
+```
 {
     module: "MMM-FieldHockey-FFH",
     position: "bottom_right",
