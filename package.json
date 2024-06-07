@@ -1,0 +1,15 @@
+{
+  "name": "MMM-FieldHockey-FFH",
+  "version": "0.0.1",
+  "description": "MagicMirror Module for displaying field hockey french rankings",
+  "main": "MMM-FieldHockey-FFH.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mmourcia",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
+

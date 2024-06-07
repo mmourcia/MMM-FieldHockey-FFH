@@ -1,0 +1,56 @@
+.MMM-FieldHockey-FFH-container {
+    color: white; /* White text */
+    font-family: 'Roboto Condensed', sans-serif; /* Font family */
+    font-size: 12px; /* Font size */
+}
+
+.MMM-FieldHockey-FFH-container .poule-title {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+    text-align: left;
+    font-weight: bold;
+    color: white; /* White text */
+}
+
+.MMM-FieldHockey-FFH-container hr {
+    border-color: white; /* Horizontal line in white */
+    margin-bottom: 10px;
+}
+
+.MMM-FieldHockey-FFH-container .logo-container img {
+    max-height: 2em; /* or adjust size as needed */
+    max-width: 100%; /* to maintain aspect ratio */
+}
+
+.MMM-FieldHockey-FFH-container .logo-container {
+    float: left;
+    margin-right: 10px;
+}
+
+.MMM-FieldHockey-FFH-container .table-container {
+    background-color: black; /* Black background for table */
+    padding: 20px;
+}
+
+.MMM-FieldHockey-FFH-container table.small {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.MMM-FieldHockey-FFH-container table.small th, 
+.MMM-FieldHockey-FFH-container table.small td {
+    border-top: 1px solid white; /* Top border only */
+    padding: 8px;
+    text-align: center;
+    font-size: 14px; /* Font size for table content */
+}
+
+.MMM-FieldHockey-FFH-container table.small th {
+    background-color: #222; /* Dark gray background for headers */
+    font-weight: bold;
+}
+
+.MMM-FieldHockey-FFH-container .team-name {
+    font-weight: bold;
+}
+
